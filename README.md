@@ -50,7 +50,7 @@ NexBuy offers a seamless and user-friendly shopping experience, featuring:
 
 ## Tech Stack 🔧
 - **Frontend**: React, Tailwind CSS
-- **Backend**: (if applicable) Node.js, Express (for full-stack functionality)
+- **Backend**: API
 - **Authentication**: LocalStorage for storing tokens
 - **Others**: React Router, useState, useEffect hooks
 
