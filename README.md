@@ -2,6 +2,10 @@
 
 Welcome to **NexBuy**, a fully functional e-commerce website built with **React** and other cutting-edge web technologies. This project showcases my journey as a budding web developer and highlights my skills in **frontend** and **full-stack** development.
 
+## Demo Links 🚀
+- Live Demo: [Watch Live](https://lnkd.in/g2-j-tea)
+- GitHub Repository: [Visit GitHub](https://lnkd.in/gPH-6WtN)
+
 ## Project Overview
 
 NexBuy offers a seamless and user-friendly shopping experience, featuring:
@@ -59,8 +63,6 @@ NexBuy offers a seamless and user-friendly shopping experience, featuring:
 - Implemented dynamic data fetching for product listings and optimized layout design for mobile-first responsiveness.
 - Combined technical skills and creativity to build a smooth and visually appealing UI.
 
-## Demo Links 🚀
-- Live Demo: [Watch Live](https://lnkd.in/g2-j-tea)
-- GitHub Repository: [Visit GitHub](https://lnkd.in/gPH-6WtN)
+
 
 
